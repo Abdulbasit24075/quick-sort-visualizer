@@ -50,14 +50,14 @@ No external libraries or frameworks are required.
 
 1. Download or clone this repository.
 2. Open the project folder.
-3. Double-click the `index.html` file.
+3. Double-click the `quick_sort_working_visualizer.html` file.
 4. The visualizer will open in your browser.
 
 ### Method 2: Run Using VS Code
 
 1. Open the project folder in VS Code.
 2. Install the **Live Server** extension.
-3. Right-click on `index.html`.
+3. Right-click on `quick_sort_working_visualizer.html`.
 4. Click **Open with Live Server**.
 
 ---
